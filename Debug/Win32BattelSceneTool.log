@@ -1,0 +1,24 @@
+﻿  CSceneInfo.cpp
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(53,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(73,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(94,10): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(118,18): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(144,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(185,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(176,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(179,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  'fscanf' 선언을 참조하십시오.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(180,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  'fscanf' 선언을 참조하십시오.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(181,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  'fscanf' 선언을 참조하십시오.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(182,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  'fscanf' 선언을 참조하십시오.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(188,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  'fscanf' 선언을 참조하십시오.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(212,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\admin\source\repos\Win32BattelSceneTool\Win32BattelSceneTool\CSceneInfo.cpp(205,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+  Win32BattelSceneTool.vcxproj -> C:\Users\admin\source\repos\Win32BattelSceneTool\Debug\Win32BattelSceneTool.exe
